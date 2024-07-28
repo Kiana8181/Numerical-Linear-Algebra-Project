@@ -34,6 +34,3 @@ This part focuses on solving the system \(AX = b\) using Gaussian elimination wi
 
 This project demonstrates the implementation of two fundamental numerical linear algebra techniques to solve systems of linear equations. The provided examples illustrate how to use the defined functions to achieve the desired solutions.
 
-## Date
-December 29, 2023
-
